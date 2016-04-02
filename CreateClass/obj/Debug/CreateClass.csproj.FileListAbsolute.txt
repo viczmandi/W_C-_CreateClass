@@ -1,0 +1,6 @@
+c:\users\viczmandni\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+c:\users\viczmandni\documents\visual studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.csprojResolveAssemblyReference.cache
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.pdb
