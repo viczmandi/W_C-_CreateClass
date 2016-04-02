@@ -74,20 +74,20 @@ namespace CreateClass
 
         public override string ToString()
         {
-            return base.ToString() + String.Format("salary: {0}, profession: {1}, room: {2}", salary, profession, Room);
+            return base.ToString() + String.Format("salary: {0}, profession: {1}, room: {2}", salary, profession, Room.Number);
+        }
+
+        public object Clone()
+        {
+            return this.MemberwiseClone();
         }
 
         //public object Clone()
         //{
-        //    return this.MemberwiseClone();
+        //    Employee newEmployee = (Employee)this.MemberwiseClone();
+        //    newEmployee.Room = new Room(Room.Number);
+        //    return newEmployee;
         //}
-
-        public object Clone()
-        {
-            Employee newEmployee = (Employee)this.MemberwiseClone();
-            newEmployee.Room = new Room(Room.Number);
-            return newEmployee;
-        }
     }
 
     class Room
